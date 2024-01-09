@@ -300,3 +300,42 @@
     border-radius: 0px 50px 50px 0px;
     background: #F00;
 }
+
+/* section-8 */
+
+.section-8{
+    width: 1600px;
+    height: 609px;
+    background: #070211;
+}
+
+.section-8div1{
+    display: flex;
+    margin-top: 120px;
+    margin-bottom: 50px;
+}
+
+.footer-address{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.footer-web{
+    margin-top:500px;
+    max-width: 225px;
+    display:inline;
+}
+
+.section-8div2{
+    display:inline;
+    margin-top: 298px;
+}
+.footer-rights{
+    display:flex;
+    margin-top: 460px;
+    justify-content: space-between;
+}
