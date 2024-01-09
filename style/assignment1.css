@@ -225,15 +225,31 @@
     padding-left: 730px;
 }
 
-
-
-
-
 /* section-6 */
 
 .section-6{
     max-width: 1600px;
+    max-height: 7335px;
+    margin-top: 580px;
+    margin-bottom: 0px;
 }
 .sec6div1{
-    text-align: center;
+    text-align: left;
+}
+
+.sec6h2{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    text-align: left;
+}
+
+.sec6div2-grid-container{
+    display: grid;
+    grid-template-columns:auto auto auto;
+    gap: 0px;
 }
