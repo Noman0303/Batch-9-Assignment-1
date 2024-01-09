@@ -87,7 +87,7 @@
 }
 
 .sec-2image{
-    position: relative;
+    position: absolute;
     top: -610px; 
     right: -862px;
     border: 0px;
@@ -228,7 +228,7 @@
 /* section-6 */
 
 .section-6{
-    max-width: 1600px;
+    max-width: 1320px;
     max-height: 7335px;
     margin-top: 580px;
     margin-bottom: 0px;
@@ -264,11 +264,12 @@
     margin-bottom: 0px;
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
+    padding: 80px 212px 80px 212px;
 
 }
 .sec7div1{
-    margin: 80px 585px 0px 585px;
-    display: block;
+    display:flex;
+    justify-content: center;
 }
 
 .sec7div2{
