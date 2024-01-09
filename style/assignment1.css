@@ -191,3 +191,49 @@
     max-height: 482px;
     max-width: 1320px;
 }
+
+.sec5div1{
+    text-align: center;
+}
+.sec5p1{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    width: 1068px;
+}
+.sec5div2img1{
+    width: 429px;
+    height: 433px;
+    padding-left: 891px;
+    margin-bottom: 0px;
+}
+.sec5div2img2{
+    margin-top: 0px;
+}
+.sec5div2img3{
+    position: absolute;
+    z-index: 1;
+    margin-top: -500px;
+}
+.sec5div2img4{
+    position: absolute;
+    z-index: 1;
+    margin-top: -550px;
+    padding-left: 730px;
+}
+
+
+
+
+
+/* section-6 */
+
+.section-6{
+    max-width: 1600px;
+}
+.sec6div1{
+    text-align: center;
+}
